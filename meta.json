@@ -1,0 +1,14 @@
+{
+    "classes": [
+        {
+            "title": "drone",
+            "shape": "rectangle",
+            "color": "#0F328A",
+            "geometry_config": {},
+            "id": 6488528,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

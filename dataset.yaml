@@ -1,0 +1,7 @@
+path: dataset 
+train: train/images  
+val: valid/images  
+
+# Define class names (Only one class: drone)
+names:
+  0: drone
